@@ -82,7 +82,7 @@ table, th, td{
     height: 95vh;
 }
 
-@media(max-device-width){
+@media(max-device-width: 480px){
     *{
         font-family: 'Quicksand', sans-serif;
     }
